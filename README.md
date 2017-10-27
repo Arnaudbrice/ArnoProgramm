@@ -1,3 +1,3 @@
 # ArnoProgramm
 
-*only to test, how i can use Readme files.
+* only to test, how i can use Readme files.
